@@ -5,7 +5,7 @@ rata_rata = (matematika + bahasa_indonesia + ipa) / 3
 print("Nilai Matematika =", matematika)
 print("Nilai Bahasa Indonesia =", bahasa_indonesia)
 print("Nilai IPA =", ipa)
-print("Nilai rata-rata =", rata_rata)s
+print("Nilai rata-rata =", rata_rata)  
 if rata_rata >= 75:
     print("Status: LULUS")
 else:
